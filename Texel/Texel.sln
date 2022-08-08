@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texel", "Texel.csproj", "{9579B004-5A72-400A-8947-0D92D15215F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texel.Core", "..\Texel.Core\Texel.Core.csproj", "{13075442-A2F7-4377-A8BB-11C0E4EEB7F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9579B004-5A72-400A-8947-0D92D15215F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9579B004-5A72-400A-8947-0D92D15215F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9579B004-5A72-400A-8947-0D92D15215F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9579B004-5A72-400A-8947-0D92D15215F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13075442-A2F7-4377-A8BB-11C0E4EEB7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13075442-A2F7-4377-A8BB-11C0E4EEB7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13075442-A2F7-4377-A8BB-11C0E4EEB7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13075442-A2F7-4377-A8BB-11C0E4EEB7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79F237F9-4789-4660-805A-38CE56450F49}
+	EndGlobalSection
+EndGlobal
